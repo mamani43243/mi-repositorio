@@ -1,1 +1,9 @@
 hola mundo soy batman
+
+ESTANDAR DE NOMBRADO 
+
+ESTANDAR DE NOMBRADO 
+main (master) = producto final
+develop = trabajo actualmente 
+feature = una rama donde se trabaja algo en especifico
+hotfix = correciones 
